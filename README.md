@@ -2,6 +2,7 @@
 Major Project in Bachelors (Academic Project 2016)    
 
 Title         :   Performance Evaluation Of Various QRS Detection Algorithms 
+
 Domain        :   Biomedical Digital Signal Processing (ECG/Heart Signal)    
 Platform      :   MATLAB 2012a Software, MIT-BIH Arrhythmia database    
 Description   :   Extraction, Segmentation, Pre-processing, ECG Detection and Fabrication of Interfaces    
