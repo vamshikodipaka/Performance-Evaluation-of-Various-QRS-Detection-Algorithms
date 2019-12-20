@@ -7,5 +7,4 @@ Platform      :   MATLAB 2012a Software, MIT-BIH Arrhythmia database
 Description   :   Extraction, Segmentation, Pre-processing, ECG Detection and Fabrication of Interfaces    
 Algorithms    :   Pan-Tompkins algorithm, Derivative based algorithm, Empirical mode decomposition, Template Matching
 Application   :   Ease in Transmission and Reception of cardiac ECG Profile with efficient algorithms 
-Usage         :   Use of University Research Lab
 Youtube Links :   https://www.youtube.com/watch?v=9EPpOsKq2hE
